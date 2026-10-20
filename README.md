@@ -15,7 +15,7 @@
 Click on any lab title below to view the full PDF report and step-by-step investigation documentation directly in your browser.
 
 ### 1. Windows Command Prompt
-*   **[Lab 1: Windows Command Prompt](./WindowsForensics_1.pdf)**
+*   **[Lab 1: Windows Command Prompt](./WindowsCommandPrompt_1.pdf)**
     *   *Focus:* Exploration of Windows command prompt and some of its commands including ping, tracert, netstat, and Sysinternals library. 
 
 ### 2. Understanding and Analysis of Image Files
@@ -28,4 +28,12 @@ Click on any lab title below to view the full PDF report and step-by-step invest
 
 ### 4. Windows Forensics Part I
 *   **[Lab 4: Windows Forensics Part I](./WindowsForensicsPTI_4.pdf)**
-    *   *Focus:* Using Linux commands that help to conduct analysis on drives within a system. Introduction to Guymager and PowerShell cmdlets for Windows disk investigations. 
+    *   *Focus:*
+ 
+### 5. Windows Forensics Part II
+*   **[Lab 5: Windows Forensics Part II](./WindowsForensicsPTII_5.pdf)**
+    *   *Focus:*
+ 
+### 6. Linux Forensics - Linux Auditing System
+*   **[Lab 6: Linux Forensics - Linux Auditing System](./LinuxForensicsLinuxAuditingSystem_6.pdf)**
+    *   *Focus:* 
