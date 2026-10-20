@@ -33,7 +33,19 @@ Click on any lab title below to view the full PDF report and step-by-step invest
 ### 5. Windows Forensics Part II
 *   **[Lab 5: Windows Forensics Part II](./WindowsForensicsPTII_5.pdf)**
     *   *Focus:*
- 
-### 6. Linux Forensics - Linux Auditing System
-*   **[Lab 6: Linux Forensics - Linux Auditing System](./LinuxForensicsLinuxAuditingSystem_6.pdf)**
+
+### 6. Linux Forensics - Volatile Data
+*   **[Lab 6: Linux Forensics - Volatile Data](./LinuxForensicsVolatileData_6.pdf)**
+    *   *Focus:*
+      
+### 7. Linux Forensics - Linux Auditing System
+*   **[Lab 7: Linux Forensics - Linux Auditing System](./LinuxForensicsLinuxAuditingSystem_7.pdf)**
+    *   *Focus:* 
+
+### 8. Linux Forensics - Artifact Analysis
+*   **[Lab 8: Linux Forensics - Artifact Analysis](./LinuxForensicsArtifactAnalysis_8.pdf)**
+    *   *Focus:*
+    
+### 9. Static Malware Analysis
+*   **[Lab 9: Static Malware Analysis](./StaticMalwareAnalysis_9.pdf)**
     *   *Focus:* 
