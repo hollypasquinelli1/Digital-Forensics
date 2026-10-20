@@ -24,4 +24,8 @@ Click on any lab title below to view the full PDF report and step-by-step invest
  
 ### 3. Disk Forensics
 *   **[Lab 3: Disk Forensics](./DiskForensics_3.pdf)**
-    *   *Focus:* Using Linux commands that help to conduct analysis on drives within a system.
+    *   *Focus:* Using Linux commands that help to conduct analysis on drives within a system. Introduction to Guymager and PowerShell cmdlets for Windows disk investigations. 
+
+### 4. Windows Forensics Part I
+*   **[Lab 4: Windows Forensics Part I](./WindowsForensicsPTI_4.pdf)**
+    *   *Focus:* Using Linux commands that help to conduct analysis on drives within a system. Introduction to Guymager and PowerShell cmdlets for Windows disk investigations. 
