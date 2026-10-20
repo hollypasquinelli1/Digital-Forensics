@@ -15,7 +15,7 @@
 Click on any lab title below to view the full PDF report and step-by-step investigation documentation directly in your browser.
 
 ### 1. Windows Command Prompt
-*   **[Lab 1: Windows Command Prompt](./main/WindowsForensics_1.pdf)**
+*   **[Lab 1: Windows Command Prompt](./WindowsForensics_1.pdf)**
     *   *Focus:* Using native Windows CLI commands to gather volatile runtime data, active network connections, and running processes before system shutdown.
 
 ### 2. Understanding and Analysis of Image Files
