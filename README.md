@@ -5,9 +5,8 @@
 
 ## Technical Competencies & Keywords
 *   **Operating Systems:** Windows Forensics, Linux Forensics
-*   **Analysis Types:** Disk & Image Analysis, Volatile Data Triage, Static Malware Analysis
-*   **Core Skills:** Command Prompt/CLI Evidence Gathering, Artifact Parsing, Timeline Reconstruction
-*   **Methodology:** Chain of custody preservation, cryptographic validation, non-destructive analysis
+*   **Analysis Types:** Disk & Image Analysis, Volatile Data, Static Malware Analysis
+*   **Core Skills:** Command Prompt/CLI Evidence Gathering, Artifact Parsing
 
 ---
 
