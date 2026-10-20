@@ -16,12 +16,12 @@ Click on any lab title below to view the full PDF report and step-by-step invest
 
 ### 1. Windows Command Prompt
 *   **[Lab 1: Windows Command Prompt](./WindowsForensics_1.pdf)**
-    *   *Focus:* Using native Windows CLI commands to gather volatile runtime data, active network connections, and running processes before system shutdown.
+    *   *Focus:* Exploration of Windows command prompt and some of its commands including ping, tracert, netstat, and Sysinternals library. 
 
 ### 2. Understanding and Analysis of Image Files
-*   **[Lab 2: Understanding and Analysis of Image Files](./labs/lab3-image-analysis.pdf)**
-    *   *Focus:* Validating cryptographic hashes, mounting raw/E01 images, and managing the forensic integrity of data files.
+*   **[Lab 2: Understanding and Analysis of Image Files](./ImageFileAnalysis_2.pdf)**
+    *   *Focus:* File analysis using HxD, and hashing using different environments.
  
 ### 3. Disk Forensics
-*   **[Lab 3: Disk Forensics](./labs/lab3-image-analysis.pdf)**
-    *   *Focus:* Validating cryptographic hashes, mounting raw/E01 images, and managing the forensic integrity of data files.
+*   **[Lab 3: Disk Forensics](./DiskForensics_3.pdf)**
+    *   *Focus:* Using Linux commands that help to conduct analysis on drives within a system.
